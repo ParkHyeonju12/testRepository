@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>GIT TestProject</h1>
-
-<p>내용 또 추가</p>
+	<h1>GIT TestProject</h1>
+	<p>내용 또 추가</p>
+	<a href="/views/test01.jsp">페이지이동</a>
 </body>
 </html>
